@@ -1,0 +1,2 @@
+##Description
+Chrome extension that appears in the extension popup menu as "French Words Side Panel". When activated it appears as a persistent sidepanel. The user can enter a French word or phrase, its English equivalent, a sentance that uses the French word or phrase, the English equivalent of that sentance. This information can be entered into an IndexedDB database. There is a button when clicked that opens a table with a table showing the contents of the database, that is, all of the words saved so far. 
